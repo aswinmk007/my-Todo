@@ -1,0 +1,54 @@
+.addtodobtn{
+  background-color: rgb(111, 111, 238);
+  padding: 10px 20px;
+  border: transparent;
+  border-radius: 5px;
+  color: white;
+}
+.todoinput{
+  background-color: rgb(217, 217, 241);
+  padding: 10px;
+  border: transparent;
+  border-radius: 5px;
+  margin-right: 50px;
+
+}
+.tododiv{
+  background-color: #10B7E8;
+  padding: 30px;
+  border: solid 1px black;
+  margin-top: 3rem;
+  width: 550px;
+  margin-left: 30%;
+  
+}
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dltbtn{
+  background-color: red;
+  padding: 10px 20px;
+  border: transparent;
+  border-radius: 5px;
+  color: white;
+}
+.addtodobtn:hover{
+  background-color: rgb(143, 146, 79);
+  padding: 10px 20px;
+  border: transparent;
+  border-radius: 5px;
+  color: white;
+}
+/* .dltbtn:hover{
+  background-color: rgb(143, 146, 79);
+  padding: 10px 20px;
+  border: transparent;
+  border-radius: 5px;
+  color: white;
+} */
+.box>input{
+  padding: 2px;
+  background-color: blue;
+}
